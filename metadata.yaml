@@ -1,0 +1,34 @@
+_repo: Trading-with-Mexico_75469
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thompson, Wallace
+    birthdate: 1883
+    deathdate: 1936
+    gutenberg_agent_id: '58014'
+    url: http://www.gutenberg.org/2009/agents/58014
+description: ''
+gutenberg_issued: '2025-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75469'
+  lccn: '21019401'
+language: en
+pgterms:marc904: https://archive.org/details/tradingwithmexic00thomrich/page/n7/mode/2up
+pgterms:marc905: 20221024124022thompson
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bDodd, Mead and Company, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexico -- Economic conditions'
+- !lcsh 'Mexico -- Commerce'
+- !lcsh 'Mexico -- Politics and government -- 1910-1946'
+- !lcc 'HC'
+- GITenberg
+title: Trading with Mexico
+url: http://www.gutenberg.org/ebooks/75469
