@@ -1,5 +1,8 @@
 _repo: Trading-with-Mexico_75469
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75469-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, Wallace
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '58014'
     url: http://www.gutenberg.org/2009/agents/58014
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75469#Trading-with-Mexico
 gutenberg_issued: '2025-02-26'
 gutenberg_type: Text
 identifiers:
